@@ -25,4 +25,30 @@ The Generator and the Disciminator Networks were trained for <b>20 Epochs</b> an
 
 ![Generated Faces](https://github.com/chaithanya21/Generate-Faces/blob/master/Results/Generated%20Images.png)
 
+<h2>Softwares and Libraries</h2>
+
+[Python 2.7 or Higher](https://www.python.org/downloads/)
+
+[Numpy](https://pypi.org/project/numpy/)
+
+[Matplotlib](https://pypi.org/project/matplotlib/)
+
+[Jupyter Notebook](https://jupyter.org/install)
+
+[OpenCV](https://opencv.org/)
+
+<h2>Project Instructions</h2>
+
+Download the project materials from the GitHub repository by using the Download  option or Clone the github repository.After Dowloading or Cloning Navigate to the Home Folder of the Project.
+
+```
+https://github.com/chaithanya21/Generate-Faces.git
+cd Generate-Faces
+```
+Run the following to open up the notebook server:jupyter notebook
+
+In your browser, open face_generation.ipynb
+
+
+
 
