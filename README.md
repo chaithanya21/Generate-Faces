@@ -12,3 +12,17 @@ This Project is all about defining and training a DCGAN on a dataset of faces. T
 3.<b>5 landmark locations, 40 binary attributes</b> annotations per image.
 
 The dataset can be employed as the training and test sets for the following computer vision tasks: face attribute recognition, face detection, landmark (or facial part) localization, and face editing & synthesis.
+
+<h2>Results</h2>
+
+<h2>Generator And The Discriminator Losses</h2>
+
+The Generator and the Disciminator Networks were trained for <b>20 Epochs</b> and the Results obtained are:
+
+![Loss](https://github.com/chaithanya21/Generate-Faces/blob/master/Results/Losses.png)
+
+<h2> Generated Faces </h2>
+
+![Generated Faces](https://github.com/chaithanya21/Generate-Faces/blob/master/Results/Generated%20Images.png)
+
+
